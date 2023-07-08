@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devopvinu
 - 👀 I’m interested in ...  Development/ Coding 
-- 🌱 I’m currently learning ... Angular
+- 🌱 I’m currently learning ... PYTHON    
 - 📫 How to reach me ... atchivinod1998@gmail.com
 
 <!---
